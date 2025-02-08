@@ -1329,6 +1329,11 @@ body {
     grid-template-columns: auto
   }
 }
+@media (max-width:35.93625em) {
+  .footer__items {
+    grid-template-columns: auto
+  }
+}
 @media (max-width:34.0625em) {
   .hero__ratings {
     justify-content: space-around
